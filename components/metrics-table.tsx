@@ -31,7 +31,7 @@ export function MetricsTable() {
             <span className="text-brand">Færre høyrisikominutter,</span> målt i bruktiden.
           </h3>
           <p className="mt-4 text-pretty leading-relaxed text-muted-foreground">
-            Illustrative results from an eight-week deployment on standard seating support. Verdia Stol tracks relative pressure only, without storing identifiable health data.
+            Illustrative results from an eight-week deployment on standard seating support. Verdian Stol tracks relative pressure only, without storing identifiable health data.
           </p>
         </div>
 

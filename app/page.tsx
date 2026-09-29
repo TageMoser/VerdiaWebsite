@@ -50,7 +50,7 @@ export default function Page() {
           eyebrow="Handling"
           titleLead="Automatiske risikovarsler"
           title="som styrer riktig justering."
-          body="Når trykket holder seg høyt i ett område over en trygg tidsgrense, varsler Verdia Stol brukeren eller personalet om justering. Det erstatter en rigid rutine med en mer proaktiv oppfølging av det som faktisk skjer i setet."
+          body="Når trykket holder seg høyt i ett område over en trygg tidsgrense, varsler Verdian Stol brukeren eller personalet om justering. Det erstatter en rigid rutine med en mer proaktiv oppfølging av det som faktisk skjer i setet."
           points={[
             'Terskel- og belastningsvarsler, tilpasset brukeren',
             'Rutet til skjerm eller telefon i samme arbeidsflyt',
@@ -65,7 +65,7 @@ export default function Page() {
           eyebrow="Holdbarhet"
           titleLead="Bygget for hverdagens bruk"
           title="i en stol eller rullestol."
-          body="Bruk i hverdagen krever enkelhet, hygiene og robusthet. Verdia Stol er utviklet som et tett, forseglet sensorelement som tåler rengjøring, daglig bruk og stadig tilpasning i arbeid med brukeren."
+          body="Bruk i hverdagen krever enkelhet, hygiene og robusthet. Verdian Stol er utviklet som et tett, forseglet sensorelement som tåler rengjøring, daglig bruk og stadig tilpasning i arbeid med brukeren."
           points={[
             'Helt forseglet mot væsker og rengjøring',
             'Lav profil uten å påvirke komforten',
@@ -75,7 +75,7 @@ export default function Page() {
           visual={
             <img
               src="/mat-detail.png"
-              alt="Nærbilde av den forseglede Verdia Stol sensorplaten i en stol."
+              alt="Nærbilde av den forseglede Verdian Stol sensorplaten i en stol."
               className="w-full rounded-xl object-cover ring-1 ring-border"
             />
           }

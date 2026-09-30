@@ -7,7 +7,7 @@ export function Statement() {
         Ikke først når advarselen kommer.
       </h2>
       <p className="mt-6 max-w-2xl text-pretty text-[17px] leading-relaxed text-muted-foreground">
-        Trykksår er ofte mulig å forebygge, men de oppstår når belastningen blir vedvarende uten at den vises tydelig. Verdia Stol viser hvor trykket bygger seg opp i setet og signaliserer når brukeren eller personalet bør handle.
+        Trykksår er ofte mulig å forebygge, men de oppstår når belastningen blir vedvarende uten at den vises tydelig. Verdian Stol viser hvor trykket bygger seg opp i setet og signaliserer når brukeren eller personalet bør handle.
       </p>
     </section>
   )

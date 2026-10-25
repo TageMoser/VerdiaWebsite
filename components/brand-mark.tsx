@@ -1,17 +1,10 @@
-// Vilia mark: a stylized pressure pulse / contour reading.
 export function BrandMark({ className }: { className?: string }) {
   return (
-    <svg
-      className={className}
-      viewBox="0 0 24 24"
-      fill="none"
-      stroke="currentColor"
-      strokeWidth={2}
-      strokeLinecap="round"
-      strokeLinejoin="round"
-      aria-hidden="true"
-    >
-      <path d="M2 14h4l2-5 3 9 3-13 2.5 9H22" />
+    <svg viewBox="-280 -140 500 290" fill="none" aria-hidden="true" className={className}>
+      <polyline points="-258.72,0 -163.68,0 -102.96,126.72 -44.88,-118.8 15.84,-15.84 76.56,-118.8 116.16,0 172.12,0" stroke="currentColor" stroke-width="38" stroke-linecap="butt" stroke-linejoin="round" />
+      <circle cx="-258.72" cy="0" r="19" fill="currentColor" />
+      <path d="M170.12,-19 L179.55,-19 A28,28 0 0 0 172.12,0 A28,28 0 0 0 179.55,19 L170.12,19 Z" fill="currentColor" />
+      <circle cx="200.12" cy="0" r="19" className="fill-hero-foreground" />
     </svg>
   )
 }

@@ -10,9 +10,9 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'Verdian Medical | Pressure monitoring for wheelchair seating',
+  title: 'Verdan Medical | Pressure monitoring for wheelchair seating',
   description:
-    'Verdian Stol is a chair-mounted pressure monitor that tracks seat load in real time and helps prevent pressure injuries in wheelchair users.',
+    'Verdan Stol is a chair-mounted pressure monitor that tracks seat load in real time and helps prevent pressure injuries in wheelchair users.',
   generator: 'v0.app',
   icons: {
     icon: [

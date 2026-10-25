@@ -11,7 +11,7 @@ export function PressureHeatmap({
   cols = 12,
   rows = 24,
   className,
-  label = 'Verdian Stol · seated pressure map',
+  label = 'Verdan Stol · seated pressure map',
 }: Props) {
   const grid = buildPressureGrid(cols, rows)
 

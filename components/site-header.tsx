@@ -11,9 +11,9 @@ export function SiteHeader() {
     <header className="sticky top-0 z-50 bg-hero text-hero-foreground">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-5 sm:px-8">
         <a href="#top" className="flex items-center gap-2.5">
-          <BrandMark className="h-6 w-6 text-brand" />
+          <BrandMark className="h-6 w-auto text-brand" />
           <span className="text-lg font-semibold tracking-tight">
-            Verdian<span className="text-hero-muted"> Medical</span>
+            Verdan<span className="text-hero-muted"> Medical</span>
           </span>
         </a>
 
